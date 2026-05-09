@@ -56,7 +56,7 @@ result=50/5
 print(result)
 try:
     result=12/2
-    print(f"result of division:{result}")
+    print(f"result of division:{result}") 
 except ZeroDivisionError:
    print(f"error:cannot divide by zero.") 
 try:
